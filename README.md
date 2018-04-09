@@ -6,6 +6,11 @@ Download Free:
 ver: 1.2.1
 http://www.mediafire.com/file/axxnfbduwr1h5s6/CushyProtection.jar
 
+and
+
+Spigot
+https://www.spigotmc.org/resources/cushyprotection.55509/
+
 
 Plugin: Protection
 Support: 1.8+
