@@ -30,3 +30,16 @@ Function:
 - AntiBreakItemFrame in Arena
 - AntiFire burn block in arena
 - Antipiston in Protect
+
+
+PerMission:
+ps.remove - /ps remove 
+cpt.help - open Menu status Protect all
+
+ps.remove   -   can use command /ps remove
+cpt.reload   -  can use command /cpt reload
+cps.removeop  -  can Remove protect other
+cps.blockbreakop   -   can Break in protect other
+cps.blockplaceop   -   can Place in protect other
+cps.usearenaop   -   can use block in protect other
+cpt.placeprotect   -   can place protection
