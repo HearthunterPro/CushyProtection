@@ -11,6 +11,7 @@ Plugin: Protection
 Support: 1.8+
 
 /ps - Show Menu in Protect
+
 /cpt - Show Menu Status Plugin
 
 /ps remove - Remove protect in Arena
