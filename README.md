@@ -26,6 +26,6 @@ Function:
 - AntiWaterLava in Arena
 - AntiFarm in Arena
 - AntiTNT in Arena
-- AntiItemFrame in Arena
+- AntiBreakItemFrame in Arena
 - AntiFire burn block in arena
 - Antipiston in Protect
