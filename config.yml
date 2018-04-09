@@ -1,0 +1,52 @@
+UPDate: true
+Prefix: '&a[CPT]:&e '
+permission: You not have permission!
+notbreak: You can not Break Protect ,but you can use /ps
+inprotect: '&ayou got into Protect &e{owner}'
+outprotect: '&ayou got out Protect &e{owner}'
+canbreakinpro: '&eThe area is not yours'
+notarena: '&eYou do not live in the area'
+younotowner: '&eYou are not owner'
+outnoower: '&eout arena'
+removeprotect: '&eYou Remove Protection'
+nodamage: '&eYou cant do Damage'
+PlaceProtect: '&eProtect Working'
+cantuse: '&eYou cant use it'
+wordname: '&eType a word player name into:Type a word cancel for cancel'
+cantplace: '&eYou cant Place in Arena'
+ItemFrame: true
+waterandlava: true
+farm: true
+tnt: true
+fire: true
+piston: true
+cooldown: 5
+cooldownmessage: '&eCooldown Place: <time>'
+limitmessage: '&eRestricted blog'
+worldDenied:
+- worldtest
+Protect:
+- '16'
+- '56'
+- '129'
+radius:
+  '16':
+    x: 10
+    y: 10
+    z: 10
+    pvp: true
+  '56':
+    x: 20
+    y: 20
+    z: 20
+    pvp: true
+  '129':
+    x: 30
+    y: 30
+    z: 30
+    pvp: true
+limit:
+  '16':
+    premission: cpt.member
+    count: 3
+version: 1.2.1
